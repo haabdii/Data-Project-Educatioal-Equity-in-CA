@@ -10,4 +10,5 @@ It turns out that ethnicity has a more significant effect on the education level
 
 ![](Figures/ethnicity.png)
 
-I 
+I am sharing the jupyetr notebook of the project on this repository: Educational_Equity_CA.
+
