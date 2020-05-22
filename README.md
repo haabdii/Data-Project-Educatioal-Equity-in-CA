@@ -8,4 +8,6 @@ It turns out that ethnicity has a more significant effect on the education level
 
 ![](Figures/sexual_orientation.png)
 
-![](Figures/educational_level.png)
+![](Figures/ethnicity.png)
+
+I 
